@@ -1,0 +1,17 @@
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\TC.csprojAssemblyReference.cache
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\MainWindow.g.cs
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\PanelTC.g.cs
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\App.g.cs
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\TC_MarkupCompile.cache
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\TC_MarkupCompile.lref
+C:\Users\matwa\source\programowanieOb\TC\bin\Debug\TC.exe.config
+C:\Users\matwa\source\programowanieOb\TC\bin\Debug\TC.exe
+C:\Users\matwa\source\programowanieOb\TC\bin\Debug\TC.pdb
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\MainWindow.baml
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\PanelTC.baml
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\TC.g.resources
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\TC.Properties.Resources.resources
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\TC.csproj.GenerateResource.cache
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\TC.exe
+C:\Users\matwa\source\programowanieOb\TC\obj\Debug\TC.pdb
